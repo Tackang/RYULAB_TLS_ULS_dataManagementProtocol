@@ -1,6 +1,6 @@
 # [RyuLab]TLS_ULS_dataManagementProtocol
 
-This page explains how to manage Reigl TLS and ULS dataset
+This page explains how to manage Riegl TLS and ULS dataset
 
 ### 1. Upload field data to external HDD
 
