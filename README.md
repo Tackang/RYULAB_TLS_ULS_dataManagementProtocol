@@ -26,7 +26,7 @@ For more detail, ask @Tackang @Yunsoo
 
 ## 3. Upload processed field data to server
 
-+ #### Server folder path
++ #### Server folder path ( /esail3/Takcang/* )
 ```
 📦esail3  
  ┗ 📂Tackang  
