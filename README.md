@@ -9,11 +9,11 @@ This page explains how to manage Reigl TLS and ULS dataset
   
  + #### HDD folder structure
 ```   
- 📦TLS_ULS_reigl  
-  ┣ 📂11GDK_TLSreigl  
-  ┣ 📂12GDK_ULSreigl  
-  ┣ 📂21TCK_TLSreigl  
-  ┗ 📂22TCK_ULSreigl  
+ 📦TLS_ULS_riegl  
+  ┣ 📂11GDK_TLSriegl  
+  ┣ 📂12GDK_ULSriegl  
+  ┣ 📂21TCK_TLSriegl  
+  ┗ 📂22TCK_ULSriegl  
 ```
 ## 2. Process field data 
 + TLS  
@@ -30,10 +30,10 @@ For more detail, ask @Tackang @Yunsoo
 ```
 📦esail3  
  ┗ 📂Tackang  
-   ┣ 📂11GDK_TLSreigl  
-   ┣ 📂12GDK_ULSreigl  
-   ┣ 📂21TCK_TLSreigl  
-   ┗ 📂22TCK_ULSreigl
+   ┣ 📂11GDK_TLSriegl  
+   ┣ 📂12GDK_ULSriegl  
+   ┣ 📂21TCK_TLSriegl  
+   ┗ 📂22TCK_ULSriegl
 ```
 
 
