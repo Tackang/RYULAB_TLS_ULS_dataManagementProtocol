@@ -14,7 +14,9 @@ https://docs.google.com/spreadsheets/d/1wb4QeWr6PL7wAuJscyQ-VGBiKfCVTcCDWBeLWDFp
   ┣ 📂11GDK_TLSriegl  
   ┣ 📂12GDK_ULSriegl  
   ┣ 📂21TCK_TLSriegl  
-  ┗ 📂22TCK_ULSriegl  
+  ┣ 📂22TCK_ULSriegl  
+  ┣ 📂31HWK_TLSriegl  
+  ┗ 📂32HWK_ULSriegl 
 ```
 ## 2. Process field data 
 + TLS  
@@ -34,7 +36,9 @@ For more detail, ask @Tackang @Yunsoo
    ┣ 📂11GDK_TLSriegl  
    ┣ 📂12GDK_ULSriegl  
    ┣ 📂21TCK_TLSriegl  
-   ┗ 📂22TCK_ULSriegl
+   ┣ 📂22TCK_ULSriegl  
+   ┣ 📂31HWK_TLSriegl  
+   ┗ 📂32HWK_ULSriegl 
 ```
 
 
