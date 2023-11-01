@@ -41,4 +41,6 @@ For more detail, ask @Tackang @Yunsoo
    ┗ 📂32HWK_ULSriegl 
 ```
 
+## 4. Handling errors  
+* When error occurs for license of Riscan Pro, go to 'Service' of license PC and turn off 'RIEGL License Service' and 'RIEGL LicenseProxy'. Then do 'Launch server' in LicenseServer Administration Center
 
