@@ -4,7 +4,7 @@ This page explains how to manage Riegl TLS and ULS dataset
 - ULS
 https://docs.google.com/spreadsheets/d/1wb4QeWr6PL7wAuJscyQ-VGBiKfCVTcCDWBeLWDFpreo/edit#gid=0
 
-_TLS
+- TLS
 https://docs.google.com/spreadsheets/d/1Lxt5jdBka6yrYdIJKT22Innl_30Hz9w4j39qNTnubMQ/edit#gid=735285282
 ### 1. Upload field data to external HDD
 
